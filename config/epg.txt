@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/fanmingming/live/main/e.xml
 https://epg.112114.xyz/pp.xml
 https://live.fanmingming.com/e.xml
 https://live.fanmingming.cn/e.xml
+https://epg.pw/api/epg.xml
