@@ -261,6 +261,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 博斯无限2,https://tv.iill.top/litv/litv-longturn13
 博斯无限2,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn13
 博斯无限2,https://tzh911.qzz.io/litv.php?id=litv-longturn13
+博斯无限2,https://tv.iill.top/litv/litv-longturn13&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 博斯网球,http://pullpackage.alivecdn.com/live/8zU0swMFiNzCmM4UR8nGnBHBzyR2zddBzos3DpAMBFw541akw1.flv
 博斯网球,https://live.catvod.com/live.php?id=bositennis_twn&token=7f2e6b01b51b3f59f3b0d9fa07bc1b130b1b977ce7171d42b5336ffe86ade44a%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 博斯网球,https://hls-gateway.vpstv.net/streams/477602.m3u8
@@ -336,6 +337,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 鏡電視新聞台,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv075/index.m3u8
 鏡電視新聞台,https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8
 CNBC Asia 財經台,https://tv.iill.top/4gtv/4gtv-live130
+CNBC Asia 財經台,https://tv.iill.top/4gtv/4gtv-live130&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv076
 亞洲旅遊台,https://mao.ffmking888.dpdns.org/?id=5Lqe5rSy5peF6YGK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 亞洲旅遊台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv076
@@ -403,8 +405,10 @@ CatchPlay,https://hls-gateway.vpstv.net/streams/708881.m3u8
 台湾戏剧,https://4gtv.dxjc.pp.ua/li-litv-longturn22/index.m3u8
 電影原聲台CMusic,https://hls-gateway.vpstv.net/streams/708938.m3u8
 電影原聲台CMusic,https://tv.iill.top/4gtv/4gtv-live031
+電影原聲台CMusic,https://tv.iill.top/4gtv/4gtv-live031&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 CinemaWorld,https://hls-gateway.vpstv.net/streams/709421.m3u8
 CinemaWorld,https://tv.iill.top/4gtv/4gtv-live069
+CinemaWorld,https://tv.iill.top/4gtv/4gtv-live069&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 ROCK Action,https://live.catvod.com/live.php?id=Rockaction&token=751e6ee76c591ab9277e8acf18847a78e5488a98491eb79213f6da16ab70f31e%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 ROCK Action,https://hls-gateway.vpstv.net/streams/709551.m3u8
 ROCK Action,https://hls-gateway.vpstv.net/streams/602219.m3u8
@@ -412,6 +416,7 @@ ROCK Action,https://tv.iill.top/4gtv/4gtv-live138
 ROCK Action,https://live.catvod.com/live.php?id=Rockaction&token=b7b8d7333c8e70031b7a1b181d9b65961d51b41607a7ada80a87a8b65c530a3e%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 ROCK Entertainment,https://hls-gateway.vpstv.net/streams/708933.m3u8
 霹靂布袋戲,https://tv.iill.top/4gtv/4gtv-live145
+霹靂布袋戲,https://tv.iill.top/4gtv/4gtv-live145&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 Nick Jr.兒童頻道,https://live.catvod.com/live.php?id=Nickelodeon&token=9e955afedc4416b531169cd91433b5c2ac41ebd175f2991ecf516060504d074e%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 Nick Jr.兒童頻道,https://hls-gateway.vpstv.net/streams/709545.m3u8
 Nick Jr.兒童頻道,https://hls-gateway.vpstv.net/streams/477714.m3u8
@@ -434,6 +439,7 @@ MOMO综合,https://stream1.freetv.fun/7b05af5914c8e41493283e95a1a55dd03f7a7947f9
 MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 MTVLive音樂頻道,https://tv.iill.top/4gtv/4gtv-live025
+MTVLive音樂頻道,https://tv.iill.top/4gtv/4gtv-live025&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 Mezzo Live,https://tv.iill.top/litv/4gtv-4gtv083
 Mezzo Live,https://stream1.freetv.fun/b33c54b7c7025bd37af5ee36a17fa1a8dde0893d5f00f4e2c15f87a7e5238541.ctv
 Mezzo Live,https://stream1.freetv.fun/b319b683b88456ffb077590201e77368a4ece6a72b6642915f6b108fa59290b1.m3u8
@@ -447,9 +453,12 @@ Mezzo Live,https://stream1.freetv.fun/96df0086d03d13140fd1bebf6290c07bcc3e5724de
 TRACE Urban,https://tv.iill.top/litv/4gtv-4gtv082
 TRACE Urban,https://mytv.passwdword.xyz/mytv265.php?id=TRUR
 TRACE Urban,https://ofiii.passwdword.xyz/mytv265.php?id=TRUR
+TRACE Urban,https://tv.iill.top/litv/4gtv-4gtv082&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 韓國娛樂台KMTV,https://tv.iill.top/litv/4gtv-4gtv016
+韓國娛樂台KMTV,https://tv.iill.top/litv/4gtv-4gtv016&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 LUXE TV,https://hls-gateway.vpstv.net/streams/708943.m3u8
 LUXE TV,https://tv.iill.top/4gtv/4gtv-live121
+LUXE TV,https://tv.iill.top/4gtv/4gtv-live121&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 PET CLUB TV,https://stream1.freetv.fun/pet-club-tv-1.m3u8
 PET CLUB TV,https://hls-gateway.vpstv.net/streams/708939.m3u8
 PET CLUB TV,https://tv.iill.top/litv/4gtv-4gtv110
@@ -891,6 +900,7 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
+音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
@@ -925,4 +935,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-12-10 16:43:02,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-12-11 16:43:21,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
