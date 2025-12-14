@@ -340,6 +340,7 @@ CNBC Asia 財經台,https://tv.iill.top/4gtv/4gtv-live130
 CNBC Asia 財經台,https://tv.iill.top/4gtv/4gtv-live130&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 CNBC Asia 財經台,https://tv.iill.top/4gtv/4gtv-live130&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
 CNBC Asia 財經台,https://tv.iill.top/4gtv/4gtv-live130&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
+CNBC Asia 財經台,https://tv.iill.top/4gtv/4gtv-live130&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv076
 亞洲旅遊台,https://mao.ffmking888.dpdns.org/?id=5Lqe5rSy5peF6YGK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 亞洲旅遊台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv076
@@ -425,6 +426,7 @@ ROCK Entertainment,https://hls-gateway.vpstv.net/streams/708933.m3u8
 霹靂布袋戲,https://tv.iill.top/4gtv/4gtv-live145&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 霹靂布袋戲,https://tv.iill.top/4gtv/4gtv-live145&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
 霹靂布袋戲,https://tv.iill.top/4gtv/4gtv-live145&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
+霹靂布袋戲,https://tv.iill.top/4gtv/4gtv-live145&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 Nick Jr.兒童頻道,https://live.catvod.com/live.php?id=Nickelodeon&token=9e955afedc4416b531169cd91433b5c2ac41ebd175f2991ecf516060504d074e%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 Nick Jr.兒童頻道,https://hls-gateway.vpstv.net/streams/709545.m3u8
 Nick Jr.兒童頻道,https://hls-gateway.vpstv.net/streams/477714.m3u8
@@ -450,6 +452,7 @@ MTVLive音樂頻道,https://tv.iill.top/4gtv/4gtv-live025
 MTVLive音樂頻道,https://tv.iill.top/4gtv/4gtv-live025&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 MTVLive音樂頻道,https://tv.iill.top/4gtv/4gtv-live025&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
 MTVLive音樂頻道,https://tv.iill.top/4gtv/4gtv-live025&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
+MTVLive音樂頻道,https://tv.iill.top/4gtv/4gtv-live025&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 Mezzo Live,https://tv.iill.top/litv/4gtv-4gtv083
 Mezzo Live,https://stream1.freetv.fun/b33c54b7c7025bd37af5ee36a17fa1a8dde0893d5f00f4e2c15f87a7e5238541.ctv
 Mezzo Live,https://stream1.freetv.fun/b319b683b88456ffb077590201e77368a4ece6a72b6642915f6b108fa59290b1.m3u8
@@ -469,6 +472,7 @@ TRACE Urban,https://tv.iill.top/litv/4gtv-4gtv082&token=074c3dfc2f95090e006ab15f
 韓國娛樂台KMTV,https://tv.iill.top/litv/4gtv-4gtv016&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 韓國娛樂台KMTV,https://tv.iill.top/litv/4gtv-4gtv016&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
 韓國娛樂台KMTV,https://tv.iill.top/litv/4gtv-4gtv016&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
+韓國娛樂台KMTV,https://tv.iill.top/litv/4gtv-4gtv016&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 LUXE TV,https://hls-gateway.vpstv.net/streams/708943.m3u8
 LUXE TV,https://tv.iill.top/4gtv/4gtv-live121
 LUXE TV,https://tv.iill.top/4gtv/4gtv-live121&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
@@ -918,6 +922,7 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
 音乐广播,https://tv.iill.top/fm/552&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
+音乐广播,https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
@@ -952,4 +957,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-12-13 16:40:34,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-12-14 16:39:57,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
