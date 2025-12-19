@@ -958,4 +958,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-12-18 16:44:22,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-12-19 16:43:51,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
