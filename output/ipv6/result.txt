@@ -191,6 +191,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 八大第一,https://tzh911.qzz.io/play-smt.php?id=badafirst
 八大第一,https://simate.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
 八大第一,https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
+八大第一,https://live.catvod.com/live.php?id=badafirst
 八大精彩,https://hls-gateway.vpstv.net/streams/477035.m3u8
 八大精彩,https://tv.iill.top/litv/4gtv-4gtv034
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv034
@@ -958,4 +959,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-12-26 16:40:31,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2025-12-27 16:37:16,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
