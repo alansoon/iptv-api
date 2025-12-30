@@ -1659,6 +1659,8 @@ https://hls-gateway.vpstv.net/streams/708835.m3u8
 https://shyd.695847.xyz/cms001/ch00000090990000001235/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+https://mgtv.ottiptv.cc/mg/961930263.m3u8?userid=6562104687&sign=efd9c92005c1b12c058707c88465fc8144c9c089f48a1c72aed720c0f1c51da8d3921082b953bff17df6483a0416feaae44317a4ff31de56036951c9a29ac6f72ac8d8d598f25236e7f16c7c905b6c510f&auth_token=d6b3af3defc3b057a6ef1c62b7be7174
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
 https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/卡酷动画.png" group-title="🪁动画频道",卡酷动画
@@ -1677,6 +1679,8 @@ https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
 https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-11.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 https://stream1.freetv.fun/dong-man-xiu-chang-9.ctv
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/新动漫.png" group-title="🪁动画频道",新动漫
+https://mgtv.ottiptv.cc/mg/961930269.m3u8?userid=6562104687&sign=61a42c300a72a7d6754a3fe569a603fbd5cdeb4be01ada7d9a952fbc7e41061ea74d7cc950ca28e9061842cfc9c50ecd3b81eeecdcf8210825a5fac60f088a9be3068834eafbb2241f54223d587406bac0&auth_token=d6b3af3defc3b057a6ef1c62b7be7174
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/青春动漫.png" group-title="🪁动画频道",青春动漫
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/青春动漫.png" group-title="🪁动画频道",青春动漫
@@ -1889,5 +1893,5 @@ http://luobo.bkpcp.top/yy/1382745184
 http://live.iill.top/yy.php?id=1382745184
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 http://live.iill.top/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-12-29 16:45:50
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://raw.githubusercontent.com/SeRenLin/myTVlogo/tree/main/img/民视第一.png" group-title="🕘️更新时间",2025-12-30 16:41:04
 https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
