@@ -573,6 +573,7 @@ ELTA影剧,http://pullpackage.alivecdn.com/live/0wMCxCM1oSG6URf0N4REZ8mppQsZ7yp5
 ELTA影剧,https://hls-gateway.vpstv.net/streams/476282.m3u8
 ELTA影剧,https://stream1.freetv.fun/f0f6cd93da601180dc093fcf90c4caf4554fc7f4d6a7b0eebab2935a58dca277.ctv
 ELTA影剧,http://free.cnlive.club/channel/n2109392b.m3u8?q=111.170.171.148
+ELTA影剧,https://smt.go-iptv.ggff.net/smart.php?id=eltayingju_twn&token=Goiptv
 ELTA生活旅游,https://4gtv.dxjc.pp.ua/4gtv-live120/index.m3u8
 ELTA生活英语,https://tv.iill.top/litv/litv-longturn20
 ELTA生活英语,https://mao.ffmking888.dpdns.org/?id=RUxUVueUnaa0uaiLseiqnuWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
@@ -962,4 +963,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2025-12-31 16:40:16,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2026-01-01 16:41:00,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
