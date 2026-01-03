@@ -546,6 +546,7 @@ Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 国会频道2,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv085
 壹電視綜合,https://hls-gateway.vpstv.net/streams/709284.m3u8
 壹電視電影,https://hls-gateway.vpstv.net/streams/476280.m3u8
+壹電視電影,https://stream1.freetv.fun/ae9a36c9a5a1507e9f328dbfc5eabf528ffdd1256a3e75bffa84fa5e9fb54cbe.ctv
 TFC,https://hls-gateway.vpstv.net/streams/709538.m3u8
 TFC,https://hls-gateway.vpstv.net/streams/709386.m3u8
 美食星球,https://hls-gateway.vpstv.net/streams/709110.m3u8
@@ -636,6 +637,7 @@ JET综合台,https://live.catvod.com/live.php?id=jet&token=7e0cc0f30e3a82fdf0f6e
 壹新闻,https://live.catvod.com/live.php?id=yinews&token=acc1fff2096a709aa5d959bf4cd4be66b9b2d229477c56ef60f2e45d75333a98%3A1761528165%3ANjQuMjM2LjE2MC4yMQ%3D%3D
 壹新闻,https://live.catvod.com/live.php?id=yinews&token=3b58b4a96080ab07b3f10886f72fd989f797a5ba5bd05e744704b0180e0123d2%3A1761614231%3AMTcyLjE4Mi4yMDEuMTY1
 壹电影,https://hls-gateway.vpstv.net/streams/476280.m3u8
+壹电影,https://stream1.freetv.fun/ae9a36c9a5a1507e9f328dbfc5eabf528ffdd1256a3e75bffa84fa5e9fb54cbe.ctv
 壹综合,https://hls-gateway.vpstv.net/streams/709284.m3u8
 好消息1,https://hls-gateway.vpstv.net/streams/476227.m3u8
 好消息1,https://tv.iill.top/litv/litv-ftv16
@@ -963,4 +965,4 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 
 🕘️更新时间,#genre#
-2026-01-02 16:40:55,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
+2026-01-03 16:38:30,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
