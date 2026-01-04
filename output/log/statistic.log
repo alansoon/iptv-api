@@ -1,133 +1,135 @@
-Category: 🇹🇼台灣頻道, Name: 民视第一, Total: 55, Valid: 1, Valid Percent: 1.82%, Whitelist: 0, IPv4: 1, IPv6: 54, Min Delay: 2266 ms, Max Speed: 0.74 M/s, Avg Speed: 0.74 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 民视电视台, Total: 58, Valid: 2, Valid Percent: 3.45%, Whitelist: 0, IPv4: 2, IPv6: 56, Min Delay: 271 ms, Max Speed: 4.22 M/s, Avg Speed: 2.35 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 民视新闻, Total: 84, Valid: 3, Valid Percent: 3.57%, Whitelist: 0, IPv4: 3, IPv6: 81, Min Delay: 2470 ms, Max Speed: 0.84 M/s, Avg Speed: 0.52 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 民视台湾, Total: 66, Valid: 1, Valid Percent: 1.52%, Whitelist: 0, IPv4: 1, IPv6: 65, Min Delay: 2231 ms, Max Speed: 0.62 M/s, Avg Speed: 0.62 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 民视影剧, Total: 48, Valid: 2, Valid Percent: 4.17%, Whitelist: 0, IPv4: 2, IPv6: 46, Min Delay: 402 ms, Max Speed: 0.74 M/s, Avg Speed: 0.69 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 民视旅游, Total: 47, Valid: 1, Valid Percent: 2.13%, Whitelist: 0, IPv4: 1, IPv6: 46, Min Delay: 2536 ms, Max Speed: 1.21 M/s, Avg Speed: 1.21 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 民视综艺, Total: 48, Valid: 2, Valid Percent: 4.17%, Whitelist: 0, IPv4: 2, IPv6: 46, Min Delay: 52 ms, Max Speed: 1.46 M/s, Avg Speed: 1.29 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 中视, Total: 169, Valid: 3, Valid Percent: 1.78%, Whitelist: 0, IPv4: 3, IPv6: 166, Min Delay: 174 ms, Max Speed: 0.94 M/s, Avg Speed: 0.58 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 中视新闻, Total: 65, Valid: 1, Valid Percent: 1.54%, Whitelist: 0, IPv4: 1, IPv6: 64, Min Delay: 2345 ms, Max Speed: 0.77 M/s, Avg Speed: 0.77 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: 中天新闻, Total: 89, Valid: 3, Valid Percent: 3.37%, Whitelist: 0, IPv4: 3, IPv6: 86, Min Delay: 10 ms, Max Speed: 24.94 M/s, Avg Speed: 9.92 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 华视, Total: 166, Valid: 2, Valid Percent: 1.20%, Whitelist: 0, IPv4: 3, IPv6: 163, Min Delay: 407 ms, Max Speed: 0.69 M/s, Avg Speed: 0.49 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 华视新闻资讯, Total: 52, Valid: 2, Valid Percent: 3.85%, Whitelist: 0, IPv4: 2, IPv6: 50, Min Delay: 168 ms, Max Speed: 0.71 M/s, Avg Speed: 0.61 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 靖天综合, Total: 47, Valid: 1, Valid Percent: 2.13%, Whitelist: 0, IPv4: 1, IPv6: 46, Min Delay: 1814 ms, Max Speed: 0.59 M/s, Avg Speed: 0.59 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 靖天戏剧, Total: 67, Valid: 2, Valid Percent: 2.99%, Whitelist: 0, IPv4: 2, IPv6: 65, Min Delay: 25 ms, Max Speed: 12.49 M/s, Avg Speed: 6.54 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 靖天日本, Total: 64, Valid: 1, Valid Percent: 1.56%, Whitelist: 0, IPv4: 1, IPv6: 63, Min Delay: 2052 ms, Max Speed: 1.04 M/s, Avg Speed: 1.04 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 靖天映画, Total: 55, Valid: 2, Valid Percent: 3.64%, Whitelist: 0, IPv4: 2, IPv6: 53, Min Delay: 22 ms, Max Speed: 14.09 M/s, Avg Speed: 7.37 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 靖天卡通, Total: 140, Valid: 2, Valid Percent: 1.43%, Whitelist: 0, IPv4: 2, IPv6: 138, Min Delay: 567 ms, Max Speed: 3.46 M/s, Avg Speed: 2.28 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 靖天资讯, Total: 69, Valid: 2, Valid Percent: 2.90%, Whitelist: 0, IPv4: 2, IPv6: 67, Min Delay: 24 ms, Max Speed: 12.69 M/s, Avg Speed: 6.94 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 靖天电影, Total: 48, Valid: 1, Valid Percent: 2.08%, Whitelist: 0, IPv4: 1, IPv6: 47, Min Delay: 1899 ms, Max Speed: 0.78 M/s, Avg Speed: 0.78 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: 靖洋戲劇台, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 2274 ms, Max Speed: 1.30 M/s, Avg Speed: 1.30 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 寰宇新闻, Total: 71, Valid: 2, Valid Percent: 2.82%, Whitelist: 0, IPv4: 2, IPv6: 69, Min Delay: 164 ms, Max Speed: 1.10 M/s, Avg Speed: 0.81 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 寰宇新闻台湾, Total: 67, Valid: 1, Valid Percent: 1.49%, Whitelist: 0, IPv4: 1, IPv6: 66, Min Delay: 2078 ms, Max Speed: 1.37 M/s, Avg Speed: 1.37 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: TVBS, Total: 128, Valid: 1, Valid Percent: 0.78%, Whitelist: 0, IPv4: 1, IPv6: 127, Min Delay: 1873 ms, Max Speed: 0.62 M/s, Avg Speed: 0.62 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: TVBS新闻, Total: 67, Valid: 2, Valid Percent: 2.99%, Whitelist: 0, IPv4: 2, IPv6: 65, Min Delay: 38 ms, Max Speed: 1.01 M/s, Avg Speed: 0.98 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: TVBS综艺, Total: 37, Valid: 1, Valid Percent: 2.70%, Whitelist: 0, IPv4: 1, IPv6: 36, Min Delay: 2246 ms, Max Speed: 0.94 M/s, Avg Speed: 0.94 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: TVBS欢乐, Total: 84, Valid: 1, Valid Percent: 1.19%, Whitelist: 0, IPv4: 1, IPv6: 83, Min Delay: 2258 ms, Max Speed: 0.96 M/s, Avg Speed: 0.96 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: TVBS台剧, Total: 37, Valid: 1, Valid Percent: 2.70%, Whitelist: 0, IPv4: 1, IPv6: 36, Min Delay: 2182 ms, Max Speed: 0.95 M/s, Avg Speed: 0.95 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 八大精彩, Total: 52, Valid: 3, Valid Percent: 5.77%, Whitelist: 0, IPv4: 3, IPv6: 49, Min Delay: 163 ms, Max Speed: 0.73 M/s, Avg Speed: 0.58 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 八大综艺, Total: 48, Valid: 1, Valid Percent: 2.08%, Whitelist: 0, IPv4: 1, IPv6: 47, Min Delay: 2247 ms, Max Speed: 1.11 M/s, Avg Speed: 1.11 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: 三立, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 776 ms, Max Speed: 0.54 M/s, Avg Speed: 0.54 M/s, Max Resolution: 720x480
-Category: 🇹🇼台灣頻道, Name: 三立INEWS, Total: 32, Valid: 1, Valid Percent: 3.12%, Whitelist: 0, IPv4: 1, IPv6: 31, Min Delay: 22 ms, Max Speed: 14.19 M/s, Avg Speed: 14.19 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 三立台湾, Total: 14, Valid: 1, Valid Percent: 7.14%, Whitelist: 0, IPv4: 1, IPv6: 13, Min Delay: 21 ms, Max Speed: 14.47 M/s, Avg Speed: 14.47 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 三立综合, Total: 32, Valid: 1, Valid Percent: 3.12%, Whitelist: 0, IPv4: 1, IPv6: 31, Min Delay: 2265 ms, Max Speed: 1.36 M/s, Avg Speed: 1.36 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 台视, Total: 146, Valid: 1, Valid Percent: 0.68%, Whitelist: 0, IPv4: 3, IPv6: 143, Min Delay: 396 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 台视新闻, Total: 88, Valid: 3, Valid Percent: 3.41%, Whitelist: 0, IPv4: 3, IPv6: 85, Min Delay: 805 ms, Max Speed: 2.70 M/s, Avg Speed: 1.28 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 东森新闻, Total: 68, Valid: 2, Valid Percent: 2.94%, Whitelist: 0, IPv4: 2, IPv6: 66, Min Delay: 565 ms, Max Speed: 3.82 M/s, Avg Speed: 2.45 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 东森财经, Total: 58, Valid: 1, Valid Percent: 1.72%, Whitelist: 0, IPv4: 1, IPv6: 57, Min Delay: 1930 ms, Max Speed: 0.91 M/s, Avg Speed: 0.91 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 东森综合, Total: 16, Valid: 3, Valid Percent: 18.75%, Whitelist: 0, IPv4: 3, IPv6: 13, Min Delay: 22 ms, Max Speed: 14.28 M/s, Avg Speed: 13.59 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 东森超视, Total: 24, Valid: 3, Valid Percent: 12.50%, Whitelist: 0, IPv4: 3, IPv6: 21, Min Delay: 23 ms, Max Speed: 13.69 M/s, Avg Speed: 13.25 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 东森电影, Total: 14, Valid: 1, Valid Percent: 7.14%, Whitelist: 0, IPv4: 1, IPv6: 13, Min Delay: 23 ms, Max Speed: 13.15 M/s, Avg Speed: 13.15 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 东森洋片, Total: 83, Valid: 1, Valid Percent: 1.20%, Whitelist: 0, IPv4: 1, IPv6: 82, Min Delay: 23 ms, Max Speed: 13.24 M/s, Avg Speed: 13.24 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 东森购物, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 175 ms, Max Speed: 0.50 M/s, Avg Speed: 0.50 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 鏡電視新聞台, Total: 29, Valid: 1, Valid Percent: 3.45%, Whitelist: 0, IPv4: 1, IPv6: 28, Min Delay: 2180 ms, Max Speed: 0.79 M/s, Avg Speed: 0.79 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: CNBC Asia 財經台, Total: 25, Valid: 1, Valid Percent: 4.00%, Whitelist: 0, IPv4: 1, IPv6: 24, Min Delay: 2286 ms, Max Speed: 1.35 M/s, Avg Speed: 1.35 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 亞洲旅遊台, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 1, IPv6: 5, Min Delay: 2161 ms, Max Speed: 1.39 M/s, Avg Speed: 1.39 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: 時尚運動X, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 1, IPv6: 5, Min Delay: 1700 ms, Max Speed: 0.41 M/s, Avg Speed: 0.41 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: 智林體育, Total: 63, Valid: 1, Valid Percent: 1.59%, Whitelist: 0, IPv4: 1, IPv6: 62, Min Delay: 1771 ms, Max Speed: 0.50 M/s, Avg Speed: 0.50 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: TRACE Sport Stars, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 172 ms, Max Speed: 0.70 M/s, Avg Speed: 0.60 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 影迷數位紀實台, Total: 45, Valid: 1, Valid Percent: 2.22%, Whitelist: 0, IPv4: 1, IPv6: 44, Min Delay: 2006 ms, Max Speed: 1.22 M/s, Avg Speed: 1.22 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 影迷數位電影台, Total: 66, Valid: 1, Valid Percent: 1.52%, Whitelist: 0, IPv4: 1, IPv6: 65, Min Delay: 2021 ms, Max Speed: 0.60 M/s, Avg Speed: 0.60 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: amc電影台, Total: 23, Valid: 1, Valid Percent: 4.35%, Whitelist: 0, IPv4: 1, IPv6: 22, Min Delay: 1895 ms, Max Speed: 0.53 M/s, Avg Speed: 0.53 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: 公视, Total: 78, Valid: 1, Valid Percent: 1.28%, Whitelist: 0, IPv4: 1, IPv6: 77, Min Delay: 394 ms, Max Speed: 0.32 M/s, Avg Speed: 0.32 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 公视戏剧, Total: 49, Valid: 1, Valid Percent: 2.04%, Whitelist: 0, IPv4: 1, IPv6: 48, Min Delay: 1922 ms, Max Speed: 0.78 M/s, Avg Speed: 0.78 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 华语剧, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 168 ms, Max Speed: 0.52 M/s, Avg Speed: 0.52 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 采昌影劇台, Total: 62, Valid: 1, Valid Percent: 1.61%, Whitelist: 0, IPv4: 1, IPv6: 61, Min Delay: 2258 ms, Max Speed: 1.17 M/s, Avg Speed: 1.17 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 台湾戏剧, Total: 50, Valid: 1, Valid Percent: 2.00%, Whitelist: 0, IPv4: 1, IPv6: 49, Min Delay: 247 ms, Max Speed: 4.62 M/s, Avg Speed: 4.62 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 經典電影台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2175 ms, Max Speed: 0.95 M/s, Avg Speed: 0.95 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 電影原聲台CMusic, Total: 26, Valid: 1, Valid Percent: 3.85%, Whitelist: 0, IPv4: 1, IPv6: 25, Min Delay: 1951 ms, Max Speed: 1.06 M/s, Avg Speed: 1.06 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: CinemaWorld, Total: 26, Valid: 1, Valid Percent: 3.85%, Whitelist: 0, IPv4: 1, IPv6: 25, Min Delay: 2129 ms, Max Speed: 0.96 M/s, Avg Speed: 0.96 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: ROCK Action, Total: 91, Valid: 1, Valid Percent: 1.10%, Whitelist: 0, IPv4: 1, IPv6: 90, Min Delay: 2198 ms, Max Speed: 0.94 M/s, Avg Speed: 0.94 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: ROCK Entertainment, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2008 ms, Max Speed: 1.03 M/s, Avg Speed: 1.03 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 金光布袋戲, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2177 ms, Max Speed: 0.95 M/s, Avg Speed: 0.95 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: DreamWorks 夢工廠動畫, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2127 ms, Max Speed: 1.45 M/s, Avg Speed: 1.45 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: Nick Jr.兒童頻道, Total: 95, Valid: 1, Valid Percent: 1.05%, Whitelist: 0, IPv4: 1, IPv6: 94, Min Delay: 2042 ms, Max Speed: 1.03 M/s, Avg Speed: 1.03 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 精選動漫台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1999 ms, Max Speed: 1.03 M/s, Avg Speed: 1.03 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 經典卡通台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2070 ms, Max Speed: 1.00 M/s, Avg Speed: 1.00 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 達文西頻道, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 2301 ms, Max Speed: 1.15 M/s, Avg Speed: 1.15 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: MOMO亲子, Total: 41, Valid: 1, Valid Percent: 2.44%, Whitelist: 0, IPv4: 1, IPv6: 40, Min Delay: 1992 ms, Max Speed: 1.05 M/s, Avg Speed: 1.05 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 民视第一, Total: 56, Valid: 1, Valid Percent: 1.79%, Whitelist: 0, IPv4: 1, IPv6: 55, Min Delay: 7479 ms, Max Speed: 0.51 M/s, Avg Speed: 0.51 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 民视电视台, Total: 59, Valid: 2, Valid Percent: 3.39%, Whitelist: 0, IPv4: 2, IPv6: 57, Min Delay: 235 ms, Max Speed: 4.88 M/s, Avg Speed: 2.83 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 民视新闻, Total: 85, Valid: 3, Valid Percent: 3.53%, Whitelist: 0, IPv4: 3, IPv6: 82, Min Delay: 2410 ms, Max Speed: 0.49 M/s, Avg Speed: 0.46 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 民视台湾, Total: 67, Valid: 1, Valid Percent: 1.49%, Whitelist: 0, IPv4: 1, IPv6: 66, Min Delay: 10192 ms, Max Speed: 0.17 M/s, Avg Speed: 0.17 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 民视影剧, Total: 49, Valid: 2, Valid Percent: 4.08%, Whitelist: 0, IPv4: 2, IPv6: 47, Min Delay: 101 ms, Max Speed: 0.39 M/s, Avg Speed: 0.30 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 民视旅游, Total: 48, Valid: 1, Valid Percent: 2.08%, Whitelist: 0, IPv4: 1, IPv6: 47, Min Delay: 9638 ms, Max Speed: 0.45 M/s, Avg Speed: 0.45 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 民视综艺, Total: 49, Valid: 2, Valid Percent: 4.08%, Whitelist: 0, IPv4: 2, IPv6: 47, Min Delay: 8 ms, Max Speed: 0.98 M/s, Avg Speed: 0.90 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 中视, Total: 174, Valid: 3, Valid Percent: 1.72%, Whitelist: 0, IPv4: 3, IPv6: 171, Min Delay: 142 ms, Max Speed: 0.60 M/s, Avg Speed: 0.39 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 中视新闻, Total: 67, Valid: 2, Valid Percent: 2.99%, Whitelist: 0, IPv4: 2, IPv6: 65, Min Delay: 139 ms, Max Speed: 0.63 M/s, Avg Speed: 0.47 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 中天新闻, Total: 90, Valid: 3, Valid Percent: 3.33%, Whitelist: 0, IPv4: 3, IPv6: 87, Min Delay: 7 ms, Max Speed: 36.91 M/s, Avg Speed: 13.56 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 华视, Total: 172, Valid: 2, Valid Percent: 1.16%, Whitelist: 0, IPv4: 3, IPv6: 169, Min Delay: 478 ms, Max Speed: 0.47 M/s, Avg Speed: 0.38 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 华视新闻资讯, Total: 53, Valid: 2, Valid Percent: 3.77%, Whitelist: 0, IPv4: 2, IPv6: 51, Min Delay: 145 ms, Max Speed: 0.61 M/s, Avg Speed: 0.47 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 靖天综合, Total: 50, Valid: 1, Valid Percent: 2.00%, Whitelist: 0, IPv4: 1, IPv6: 49, Min Delay: 3623 ms, Max Speed: 0.35 M/s, Avg Speed: 0.35 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 靖天戏剧, Total: 72, Valid: 2, Valid Percent: 2.78%, Whitelist: 0, IPv4: 2, IPv6: 70, Min Delay: 12 ms, Max Speed: 25.50 M/s, Avg Speed: 12.85 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 靖天日本, Total: 69, Valid: 1, Valid Percent: 1.45%, Whitelist: 0, IPv4: 1, IPv6: 68, Min Delay: 7244 ms, Max Speed: 0.42 M/s, Avg Speed: 0.42 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 靖天映画, Total: 56, Valid: 2, Valid Percent: 3.57%, Whitelist: 0, IPv4: 2, IPv6: 54, Min Delay: 288 ms, Max Speed: 1.07 M/s, Avg Speed: 0.77 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 靖天卡通, Total: 145, Valid: 2, Valid Percent: 1.38%, Whitelist: 0, IPv4: 2, IPv6: 143, Min Delay: 489 ms, Max Speed: 4.31 M/s, Avg Speed: 2.42 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 靖天资讯, Total: 74, Valid: 2, Valid Percent: 2.70%, Whitelist: 0, IPv4: 2, IPv6: 72, Min Delay: 10 ms, Max Speed: 31.21 M/s, Avg Speed: 15.73 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 靖天电影, Total: 49, Valid: 1, Valid Percent: 2.04%, Whitelist: 0, IPv4: 1, IPv6: 48, Min Delay: 6651 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 靖洋戲劇台, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 8631 ms, Max Speed: 0.46 M/s, Avg Speed: 0.46 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 寰宇新闻, Total: 72, Valid: 2, Valid Percent: 2.78%, Whitelist: 0, IPv4: 2, IPv6: 70, Min Delay: 136 ms, Max Speed: 0.66 M/s, Avg Speed: 0.47 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 寰宇新闻台湾, Total: 68, Valid: 1, Valid Percent: 1.47%, Whitelist: 0, IPv4: 1, IPv6: 67, Min Delay: 9894 ms, Max Speed: 0.60 M/s, Avg Speed: 0.60 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: TVBS, Total: 129, Valid: 1, Valid Percent: 0.78%, Whitelist: 0, IPv4: 1, IPv6: 128, Min Delay: 6287 ms, Max Speed: 0.31 M/s, Avg Speed: 0.31 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: TVBS新闻, Total: 71, Valid: 2, Valid Percent: 2.82%, Whitelist: 0, IPv4: 2, IPv6: 69, Min Delay: 68 ms, Max Speed: 0.61 M/s, Avg Speed: 0.51 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: TVBS综艺, Total: 38, Valid: 1, Valid Percent: 2.63%, Whitelist: 0, IPv4: 1, IPv6: 37, Min Delay: 3933 ms, Max Speed: 0.67 M/s, Avg Speed: 0.67 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: TVBS欢乐, Total: 89, Valid: 1, Valid Percent: 1.12%, Whitelist: 0, IPv4: 1, IPv6: 88, Min Delay: 7231 ms, Max Speed: 0.22 M/s, Avg Speed: 0.22 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: TVBS台剧, Total: 38, Valid: 1, Valid Percent: 2.63%, Whitelist: 0, IPv4: 1, IPv6: 37, Min Delay: 4600 ms, Max Speed: 0.63 M/s, Avg Speed: 0.63 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 八大精彩, Total: 53, Valid: 3, Valid Percent: 5.66%, Whitelist: 0, IPv4: 3, IPv6: 50, Min Delay: 139 ms, Max Speed: 0.63 M/s, Avg Speed: 0.57 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 八大综艺, Total: 49, Valid: 1, Valid Percent: 2.04%, Whitelist: 0, IPv4: 1, IPv6: 48, Min Delay: 8897 ms, Max Speed: 0.49 M/s, Avg Speed: 0.49 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 三立, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 913 ms, Max Speed: 0.57 M/s, Avg Speed: 0.57 M/s, Max Resolution: 720x480
+Category: 🇹🇼台灣頻道, Name: 三立INEWS, Total: 32, Valid: 1, Valid Percent: 3.12%, Whitelist: 0, IPv4: 1, IPv6: 31, Min Delay: 58 ms, Max Speed: 5.30 M/s, Avg Speed: 5.30 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 三立台湾, Total: 14, Valid: 1, Valid Percent: 7.14%, Whitelist: 0, IPv4: 1, IPv6: 13, Min Delay: 15 ms, Max Speed: 21.09 M/s, Avg Speed: 21.09 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 三立综合, Total: 33, Valid: 1, Valid Percent: 3.03%, Whitelist: 0, IPv4: 1, IPv6: 32, Min Delay: 10788 ms, Max Speed: 0.46 M/s, Avg Speed: 0.46 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 台视, Total: 149, Valid: 1, Valid Percent: 0.67%, Whitelist: 0, IPv4: 3, IPv6: 146, Min Delay: 454 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 台视新闻, Total: 89, Valid: 3, Valid Percent: 3.37%, Whitelist: 0, IPv4: 3, IPv6: 86, Min Delay: 618 ms, Max Speed: 3.65 M/s, Avg Speed: 1.51 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 东森新闻, Total: 69, Valid: 2, Valid Percent: 2.90%, Whitelist: 0, IPv4: 2, IPv6: 67, Min Delay: 640 ms, Max Speed: 2.25 M/s, Avg Speed: 1.49 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 东森财经, Total: 59, Valid: 1, Valid Percent: 1.69%, Whitelist: 0, IPv4: 1, IPv6: 58, Min Delay: 3897 ms, Max Speed: 0.78 M/s, Avg Speed: 0.78 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 东森综合, Total: 16, Valid: 3, Valid Percent: 18.75%, Whitelist: 0, IPv4: 3, IPv6: 13, Min Delay: 11 ms, Max Speed: 27.18 M/s, Avg Speed: 25.51 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 东森超视, Total: 24, Valid: 3, Valid Percent: 12.50%, Whitelist: 0, IPv4: 3, IPv6: 21, Min Delay: 11 ms, Max Speed: 27.91 M/s, Avg Speed: 25.92 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 东森电影, Total: 14, Valid: 1, Valid Percent: 7.14%, Whitelist: 0, IPv4: 1, IPv6: 13, Min Delay: 9 ms, Max Speed: 33.58 M/s, Avg Speed: 33.58 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 东森洋片, Total: 83, Valid: 1, Valid Percent: 1.20%, Whitelist: 0, IPv4: 1, IPv6: 82, Min Delay: 11 ms, Max Speed: 27.30 M/s, Avg Speed: 27.30 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 东森购物, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 139 ms, Max Speed: 0.63 M/s, Avg Speed: 0.63 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 鏡電視新聞台, Total: 30, Valid: 1, Valid Percent: 3.33%, Whitelist: 0, IPv4: 1, IPv6: 29, Min Delay: 6332 ms, Max Speed: 0.24 M/s, Avg Speed: 0.24 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: CNBC Asia 財經台, Total: 26, Valid: 1, Valid Percent: 3.85%, Whitelist: 0, IPv4: 1, IPv6: 25, Min Delay: 8804 ms, Max Speed: 0.61 M/s, Avg Speed: 0.61 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 亞洲旅遊台, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 1, IPv6: 5, Min Delay: 3806 ms, Max Speed: 0.73 M/s, Avg Speed: 0.73 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 時尚運動X, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 1, IPv6: 5, Min Delay: 7139 ms, Max Speed: 0.15 M/s, Avg Speed: 0.15 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 智林體育, Total: 68, Valid: 1, Valid Percent: 1.47%, Whitelist: 0, IPv4: 1, IPv6: 67, Min Delay: 4636 ms, Max Speed: 0.31 M/s, Avg Speed: 0.31 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: TRACE Sport Stars, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 142 ms, Max Speed: 0.62 M/s, Avg Speed: 0.54 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 影迷數位紀實台, Total: 46, Valid: 1, Valid Percent: 2.17%, Whitelist: 0, IPv4: 1, IPv6: 45, Min Delay: 7430 ms, Max Speed: 0.48 M/s, Avg Speed: 0.48 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 影迷數位電影台, Total: 71, Valid: 1, Valid Percent: 1.41%, Whitelist: 0, IPv4: 1, IPv6: 70, Min Delay: 8214 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: amc電影台, Total: 23, Valid: 1, Valid Percent: 4.35%, Whitelist: 0, IPv4: 1, IPv6: 22, Min Delay: 10060 ms, Max Speed: 0.24 M/s, Avg Speed: 0.24 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 公视, Total: 78, Valid: 1, Valid Percent: 1.28%, Whitelist: 0, IPv4: 1, IPv6: 77, Min Delay: 463 ms, Max Speed: 0.31 M/s, Avg Speed: 0.31 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 公视戏剧, Total: 50, Valid: 1, Valid Percent: 2.00%, Whitelist: 0, IPv4: 1, IPv6: 49, Min Delay: 7048 ms, Max Speed: 0.33 M/s, Avg Speed: 0.33 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 华语剧, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 153 ms, Max Speed: 0.57 M/s, Avg Speed: 0.57 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 采昌影劇台, Total: 67, Valid: 1, Valid Percent: 1.49%, Whitelist: 0, IPv4: 1, IPv6: 66, Min Delay: 7939 ms, Max Speed: 0.65 M/s, Avg Speed: 0.65 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 台湾戏剧, Total: 51, Valid: 1, Valid Percent: 1.96%, Whitelist: 0, IPv4: 1, IPv6: 50, Min Delay: 250 ms, Max Speed: 5.65 M/s, Avg Speed: 5.65 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 經典電影台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 7813 ms, Max Speed: 0.44 M/s, Avg Speed: 0.44 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 電影原聲台CMusic, Total: 27, Valid: 1, Valid Percent: 3.70%, Whitelist: 0, IPv4: 1, IPv6: 26, Min Delay: 7152 ms, Max Speed: 0.47 M/s, Avg Speed: 0.47 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: CinemaWorld, Total: 27, Valid: 1, Valid Percent: 3.70%, Whitelist: 0, IPv4: 1, IPv6: 26, Min Delay: 10240 ms, Max Speed: 0.34 M/s, Avg Speed: 0.34 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: ROCK Action, Total: 92, Valid: 1, Valid Percent: 1.09%, Whitelist: 0, IPv4: 1, IPv6: 91, Min Delay: 10006 ms, Max Speed: 0.29 M/s, Avg Speed: 0.29 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: ROCK Entertainment, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 10452 ms, Max Speed: 0.41 M/s, Avg Speed: 0.41 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 金光布袋戲, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10766 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: DreamWorks 夢工廠動畫, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 8947 ms, Max Speed: 0.53 M/s, Avg Speed: 0.53 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: Nick Jr.兒童頻道, Total: 96, Valid: 1, Valid Percent: 1.04%, Whitelist: 0, IPv4: 1, IPv6: 95, Min Delay: 10203 ms, Max Speed: 0.41 M/s, Avg Speed: 0.41 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 精選動漫台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10121 ms, Max Speed: 0.40 M/s, Avg Speed: 0.40 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 經典卡通台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 6745 ms, Max Speed: 0.63 M/s, Avg Speed: 0.63 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 達文西頻道, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 7528 ms, Max Speed: 0.40 M/s, Avg Speed: 0.40 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: MOMO亲子, Total: 42, Valid: 1, Valid Percent: 2.38%, Whitelist: 0, IPv4: 1, IPv6: 41, Min Delay: 7588 ms, Max Speed: 0.51 M/s, Avg Speed: 0.51 M/s, Max Resolution: None
 Category: 🇹🇼台灣頻道, Name: MOMO综合, Total: 7, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 6, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: CLASSICA 古典樂, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1898 ms, Max Speed: 0.49 M/s, Avg Speed: 0.49 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: Lifetime 娛樂頻道, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2240 ms, Max Speed: 0.94 M/s, Avg Speed: 0.94 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: Mezzo Live, Total: 42, Valid: 1, Valid Percent: 2.38%, Whitelist: 0, IPv4: 1, IPv6: 41, Min Delay: 1997 ms, Max Speed: 0.41 M/s, Avg Speed: 0.41 M/s, Max Resolution: 640x360
-Category: 🇹🇼台灣頻道, Name: 豬哥亮歌廳秀, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 1, IPv6: 5, Min Delay: 2156 ms, Max Speed: 1.05 M/s, Avg Speed: 1.05 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: TRACE Urban, Total: 27, Valid: 1, Valid Percent: 3.70%, Whitelist: 0, IPv4: 1, IPv6: 26, Min Delay: 2077 ms, Max Speed: 1.13 M/s, Avg Speed: 1.13 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 韓國娛樂台KMTV, Total: 25, Valid: 1, Valid Percent: 4.00%, Whitelist: 0, IPv4: 1, IPv6: 24, Min Delay: 2062 ms, Max Speed: 0.67 M/s, Avg Speed: 0.67 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: LUXE TV, Total: 26, Valid: 1, Valid Percent: 3.85%, Whitelist: 0, IPv4: 1, IPv6: 25, Min Delay: 2169 ms, Max Speed: 0.96 M/s, Avg Speed: 0.96 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: PET CLUB TV, Total: 29, Valid: 1, Valid Percent: 3.45%, Whitelist: 0, IPv4: 1, IPv6: 28, Min Delay: 2161 ms, Max Speed: 0.87 M/s, Avg Speed: 0.87 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: LoveNature, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 171 ms, Max Speed: 0.52 M/s, Avg Speed: 0.52 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: FUN探索娱乐台, Total: 33, Valid: 1, Valid Percent: 3.03%, Whitelist: 0, IPv4: 1, IPv6: 32, Min Delay: 2005 ms, Max Speed: 1.05 M/s, Avg Speed: 1.05 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 幸福空間居家台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1960 ms, Max Speed: 1.05 M/s, Avg Speed: 1.05 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: Bloomberg TV, Total: 92, Valid: 1, Valid Percent: 1.09%, Whitelist: 0, IPv4: 1, IPv6: 91, Min Delay: 2141 ms, Max Speed: 0.98 M/s, Avg Speed: 0.98 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: SBN全球財經台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1882 ms, Max Speed: 0.86 M/s, Avg Speed: 0.86 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 半島國際新聞台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2012 ms, Max Speed: 1.03 M/s, Avg Speed: 1.03 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: History 歷史頻道, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2104 ms, Max Speed: 1.45 M/s, Avg Speed: 1.45 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: CI 罪案偵查頻道, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2162 ms, Max Speed: 0.95 M/s, Avg Speed: 0.95 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 視納華仁紀實頻道, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2008 ms, Max Speed: 0.93 M/s, Avg Speed: 0.93 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 原住民电视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2311 ms, Max Speed: 1.36 M/s, Avg Speed: 1.36 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 滾動力 rollor, Total: 34, Valid: 1, Valid Percent: 2.94%, Whitelist: 0, IPv4: 1, IPv6: 33, Min Delay: 2146 ms, Max Speed: 0.98 M/s, Avg Speed: 0.98 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 大爱1, Total: 9, Valid: 1, Valid Percent: 11.11%, Whitelist: 0, IPv4: 1, IPv6: 8, Min Delay: 2220 ms, Max Speed: 1.38 M/s, Avg Speed: 1.38 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 大爱2, Total: 84, Valid: 1, Valid Percent: 1.19%, Whitelist: 0, IPv4: 1, IPv6: 83, Min Delay: 1969 ms, Max Speed: 0.97 M/s, Avg Speed: 0.97 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 人间卫视, Total: 48, Valid: 2, Valid Percent: 4.17%, Whitelist: 0, IPv4: 2, IPv6: 46, Min Delay: 198 ms, Max Speed: 1.03 M/s, Avg Speed: 0.74 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 国会频道1, Total: 56, Valid: 1, Valid Percent: 1.79%, Whitelist: 0, IPv4: 1, IPv6: 55, Min Delay: 2147 ms, Max Speed: 1.47 M/s, Avg Speed: 1.47 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 国会频道2, Total: 55, Valid: 1, Valid Percent: 1.82%, Whitelist: 0, IPv4: 1, IPv6: 54, Min Delay: 1503 ms, Max Speed: 0.27 M/s, Avg Speed: 0.27 M/s, Max Resolution: 640x360
+Category: 🇹🇼台灣頻道, Name: CLASSICA 古典樂, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 7116 ms, Max Speed: 0.24 M/s, Avg Speed: 0.24 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: Lifetime 娛樂頻道, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 9186 ms, Max Speed: 0.39 M/s, Avg Speed: 0.39 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: Mezzo Live, Total: 43, Valid: 1, Valid Percent: 2.33%, Whitelist: 0, IPv4: 1, IPv6: 42, Min Delay: 5672 ms, Max Speed: 0.26 M/s, Avg Speed: 0.26 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 豬哥亮歌廳秀, Total: 6, Valid: 1, Valid Percent: 16.67%, Whitelist: 0, IPv4: 1, IPv6: 5, Min Delay: 10334 ms, Max Speed: 0.34 M/s, Avg Speed: 0.34 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: TRACE Urban, Total: 28, Valid: 1, Valid Percent: 3.57%, Whitelist: 0, IPv4: 1, IPv6: 27, Min Delay: 4038 ms, Max Speed: 0.80 M/s, Avg Speed: 0.80 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 韓國娛樂台KMTV, Total: 26, Valid: 1, Valid Percent: 3.85%, Whitelist: 0, IPv4: 1, IPv6: 25, Min Delay: 6639 ms, Max Speed: 0.47 M/s, Avg Speed: 0.47 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: LUXE TV, Total: 27, Valid: 1, Valid Percent: 3.70%, Whitelist: 0, IPv4: 1, IPv6: 26, Min Delay: 8635 ms, Max Speed: 0.44 M/s, Avg Speed: 0.44 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: PET CLUB TV, Total: 30, Valid: 1, Valid Percent: 3.33%, Whitelist: 0, IPv4: 1, IPv6: 29, Min Delay: 8079 ms, Max Speed: 0.39 M/s, Avg Speed: 0.39 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: LoveNature, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 150 ms, Max Speed: 0.60 M/s, Avg Speed: 0.60 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: FUN探索娱乐台, Total: 34, Valid: 1, Valid Percent: 2.94%, Whitelist: 0, IPv4: 1, IPv6: 33, Min Delay: 10383 ms, Max Speed: 0.32 M/s, Avg Speed: 0.32 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 幸福空間居家台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10350 ms, Max Speed: 0.35 M/s, Avg Speed: 0.35 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: Bloomberg TV, Total: 93, Valid: 1, Valid Percent: 1.08%, Whitelist: 0, IPv4: 1, IPv6: 92, Min Delay: 10485 ms, Max Speed: 0.33 M/s, Avg Speed: 0.33 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: SBN全球財經台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10407 ms, Max Speed: 0.27 M/s, Avg Speed: 0.27 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 半島國際新聞台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10170 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: History 歷史頻道, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 9264 ms, Max Speed: 0.56 M/s, Avg Speed: 0.56 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: CI 罪案偵查頻道, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10976 ms, Max Speed: 0.24 M/s, Avg Speed: 0.24 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 視納華仁紀實頻道, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 5149 ms, Max Speed: 0.63 M/s, Avg Speed: 0.63 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 原住民电视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 10740 ms, Max Speed: 0.45 M/s, Avg Speed: 0.45 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 滾動力 rollor, Total: 35, Valid: 1, Valid Percent: 2.86%, Whitelist: 0, IPv4: 1, IPv6: 34, Min Delay: 6601 ms, Max Speed: 0.50 M/s, Avg Speed: 0.50 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 大爱1, Total: 9, Valid: 1, Valid Percent: 11.11%, Whitelist: 0, IPv4: 1, IPv6: 8, Min Delay: 10657 ms, Max Speed: 0.58 M/s, Avg Speed: 0.58 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 大爱2, Total: 84, Valid: 1, Valid Percent: 1.19%, Whitelist: 0, IPv4: 1, IPv6: 83, Min Delay: 10762 ms, Max Speed: 0.27 M/s, Avg Speed: 0.27 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 人间卫视, Total: 49, Valid: 2, Valid Percent: 4.08%, Whitelist: 0, IPv4: 2, IPv6: 47, Min Delay: 135 ms, Max Speed: 0.60 M/s, Avg Speed: 0.50 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 国会频道1, Total: 57, Valid: 1, Valid Percent: 1.75%, Whitelist: 0, IPv4: 1, IPv6: 56, Min Delay: 5839 ms, Max Speed: 0.80 M/s, Avg Speed: 0.80 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 国会频道2, Total: 56, Valid: 1, Valid Percent: 1.79%, Whitelist: 0, IPv4: 1, IPv6: 55, Min Delay: 7887 ms, Max Speed: 0.09 M/s, Avg Speed: 0.09 M/s, Max Resolution: None
 Category: 🇹🇼台灣頻道, Name: 緯來體育, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
 Category: 🇹🇼台灣頻道, Name: 緯來日本, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: 愛爾達娛樂台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2197 ms, Max Speed: 1.43 M/s, Avg Speed: 1.43 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 愛爾達生活旅遊台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2186 ms, Max Speed: 0.95 M/s, Avg Speed: 0.95 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: Dali TV, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 388 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
-Category: 🇹🇼台灣頻道, Name: EYETV戏剧台HD, Total: 69, Valid: 1, Valid Percent: 1.45%, Whitelist: 0, IPv4: 1, IPv6: 68, Min Delay: 56 ms, Max Speed: 0.25 M/s, Avg Speed: 0.25 M/s, Max Resolution: 1920x1080
-Category: 🇹🇼台灣頻道, Name: 好消息1, Total: 62, Valid: 1, Valid Percent: 1.61%, Whitelist: 0, IPv4: 1, IPv6: 61, Min Delay: 2075 ms, Max Speed: 1.49 M/s, Avg Speed: 1.49 M/s, Max Resolution: None
-Category: 🇹🇼台灣頻道, Name: 好消息2, Total: 124, Valid: 1, Valid Percent: 0.81%, Whitelist: 0, IPv4: 1, IPv6: 123, Min Delay: 2259 ms, Max Speed: 1.36 M/s, Avg Speed: 1.36 M/s, Max Resolution: None
-Category: 🎬电影频道, Name: CHC家庭影院, Total: 149, Valid: 12, Valid Percent: 8.05%, Whitelist: 0, IPv4: 4, IPv6: 145, Min Delay: 0.1 ms, Max Speed: 0.94 M/s, Avg Speed: 0.18 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: CHC动作电影, Total: 156, Valid: 21, Valid Percent: 13.46%, Whitelist: 0, IPv4: 6, IPv6: 150, Min Delay: 0.1 ms, Max Speed: 0.85 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: 淘剧场, Total: 6, Valid: 3, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.72 M/s, Avg Speed: 0.24 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: 淘娱乐, Total: 6, Valid: 3, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.59 M/s, Avg Speed: 0.20 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: 淘电影, Total: 18, Valid: 18, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 17, Min Delay: 0.1 ms, Max Speed: 0.76 M/s, Avg Speed: 0.04 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: 经典电影, Total: 11, Valid: 8, Valid Percent: 72.73%, Whitelist: 0, IPv4: 2, IPv6: 9, Min Delay: 0.1 ms, Max Speed: 13.48 M/s, Avg Speed: 1.75 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: IPTV经典电影, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 502 ms, Max Speed: 0.28 M/s, Avg Speed: 0.28 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: 天映经典, Total: 98, Valid: 2, Valid Percent: 2.04%, Whitelist: 0, IPv4: 2, IPv6: 96, Min Delay: 24 ms, Max Speed: 12.73 M/s, Avg Speed: 6.93 M/s, Max Resolution: 1920x1080
-Category: 🎬电影频道, Name: 星空卫视, Total: 7, Valid: 2, Valid Percent: 28.57%, Whitelist: 0, IPv4: 1, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 13.44 M/s, Avg Speed: 6.72 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: CCTV-5, Total: 358, Valid: 45, Valid Percent: 12.57%, Whitelist: 0, IPv4: 11, IPv6: 347, Min Delay: 0.1 ms, Max Speed: 1.55 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: CCTV-5+, Total: 207, Valid: 57, Valid Percent: 27.54%, Whitelist: 0, IPv4: 17, IPv6: 190, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.16 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 山东体育, Total: 13, Valid: 11, Valid Percent: 84.62%, Whitelist: 0, IPv4: 2, IPv6: 11, Min Delay: 0.1 ms, Max Speed: 5.31 M/s, Avg Speed: 0.83 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 天津体育, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 327 ms, Max Speed: 5.25 M/s, Avg Speed: 5.25 M/s, Max Resolution: 1280x720
-Category: 🏀体育频道, Name: 睛彩篮球, Total: 3, Valid: 2, Valid Percent: 66.67%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.76 M/s, Avg Speed: 0.38 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 风云足球, Total: 12, Valid: 9, Valid Percent: 75.00%, Whitelist: 0, IPv4: 6, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.92 M/s, Avg Speed: 0.30 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 魅力足球, Total: 14, Valid: 10, Valid Percent: 71.43%, Whitelist: 0, IPv4: 1, IPv6: 13, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 天元围棋, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 511 ms, Max Speed: 0.90 M/s, Avg Speed: 0.37 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 快乐垂钓, Total: 11, Valid: 7, Valid Percent: 63.64%, Whitelist: 0, IPv4: 6, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.75 M/s, Avg Speed: 0.32 M/s, Max Resolution: 1920x1080
-Category: 🪁动画频道, Name: 动漫秀场, Total: 27, Valid: 18, Valid Percent: 66.67%, Whitelist: 0, IPv4: 3, IPv6: 24, Min Delay: 0.1 ms, Max Speed: 0.77 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1920x1080
-Category: 🪁动画频道, Name: 新动漫, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 505 ms, Max Speed: 0.45 M/s, Avg Speed: 0.45 M/s, Max Resolution: 720x576
-Category: 🪁动画频道, Name: CN卡通, Total: 4, Valid: 3, Valid Percent: 75.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 13.03 M/s, Avg Speed: 4.34 M/s, Max Resolution: 1920x1080
-Category: 🪁动画频道, Name: 优漫卡通, Total: 135, Valid: 13, Valid Percent: 9.63%, Whitelist: 0, IPv4: 1, IPv6: 134, Min Delay: 0.1 ms, Max Speed: 0.80 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
-Category: 🪁动画频道, Name: 金鹰卡通, Total: 50, Valid: 39, Valid Percent: 78.00%, Whitelist: 0, IPv4: 8, IPv6: 42, Min Delay: 0.1 ms, Max Speed: 0.96 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
-Category: 🪁动画频道, Name: 蜡笔小新, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 42 ms, Max Speed: 10.53 M/s, Avg Speed: 10.53 M/s, Max Resolution: 1920x1080
-Category: 🎮游戏频道, Name: 游戏风云, Total: 12, Valid: 8, Valid Percent: 66.67%, Whitelist: 0, IPv4: 2, IPv6: 10, Min Delay: 0.1 ms, Max Speed: 0.25 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
-Category: 🎵音乐频道, Name: CCTV-15, Total: 295, Valid: 73, Valid Percent: 24.75%, Whitelist: 0, IPv4: 12, IPv6: 283, Min Delay: 0.1 ms, Max Speed: 0.93 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
-Category: 🎵音乐频道, Name: 风云音乐, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 487 ms, Max Speed: 0.86 M/s, Avg Speed: 0.41 M/s, Max Resolution: 1920x1080
-Category: 🎵音乐频道, Name: 音乐现场, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 17 ms, Max Speed: 5.41 M/s, Avg Speed: 4.97 M/s, Max Resolution: None
-Category: 🎵音乐频道, Name: 音乐之声, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1125 ms, Max Speed: 0.14 M/s, Avg Speed: 0.14 M/s, Max Resolution: None
-Category: 🎵音乐频道, Name: 潮流音乐, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10339 ms, Max Speed: 0.01 M/s, Avg Speed: 0.01 M/s, Max Resolution: None
-Category: 🏛经典剧场, Name: 天龙八部, Total: 7, Valid: 6, Valid Percent: 85.71%, Whitelist: 0, IPv4: 2, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 11.41 M/s, Avg Speed: 2.01 M/s, Max Resolution: 1920x1080
-Category: 🏛经典剧场, Name: 闯关东, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1786 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: 愛爾達娛樂台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10212 ms, Max Speed: 0.45 M/s, Avg Speed: 0.45 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 愛爾達生活旅遊台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 8194 ms, Max Speed: 0.39 M/s, Avg Speed: 0.39 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: Dali TV, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2248 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1280x720
+Category: 🇹🇼台灣頻道, Name: EYETV戏剧台HD, Total: 69, Valid: 1, Valid Percent: 1.45%, Whitelist: 0, IPv4: 1, IPv6: 68, Min Delay: 12 ms, Max Speed: 0.95 M/s, Avg Speed: 0.95 M/s, Max Resolution: 1920x1080
+Category: 🇹🇼台灣頻道, Name: 好消息1, Total: 64, Valid: 1, Valid Percent: 1.56%, Whitelist: 0, IPv4: 1, IPv6: 63, Min Delay: 5384 ms, Max Speed: 0.82 M/s, Avg Speed: 0.82 M/s, Max Resolution: None
+Category: 🇹🇼台灣頻道, Name: 好消息2, Total: 125, Valid: 1, Valid Percent: 0.80%, Whitelist: 0, IPv4: 1, IPv6: 124, Min Delay: 8546 ms, Max Speed: 0.68 M/s, Avg Speed: 0.68 M/s, Max Resolution: None
+Category: 🎬电影频道, Name: CHC家庭影院, Total: 149, Valid: 12, Valid Percent: 8.05%, Whitelist: 0, IPv4: 3, IPv6: 146, Min Delay: 0.1 ms, Max Speed: 0.98 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: CHC动作电影, Total: 156, Valid: 22, Valid Percent: 14.10%, Whitelist: 0, IPv4: 5, IPv6: 151, Min Delay: 0.1 ms, Max Speed: 1.00 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: 淘剧场, Total: 7, Valid: 4, Valid Percent: 57.14%, Whitelist: 0, IPv4: 2, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.82 M/s, Avg Speed: 0.40 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: 淘娱乐, Total: 7, Valid: 4, Valid Percent: 57.14%, Whitelist: 0, IPv4: 2, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.84 M/s, Avg Speed: 0.42 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: 淘电影, Total: 19, Valid: 19, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 17, Min Delay: 0.1 ms, Max Speed: 0.84 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: 经典电影, Total: 11, Valid: 8, Valid Percent: 72.73%, Whitelist: 0, IPv4: 2, IPv6: 9, Min Delay: 0.1 ms, Max Speed: 24.19 M/s, Avg Speed: 3.10 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: IPTV经典电影, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 458 ms, Max Speed: 0.03 M/s, Avg Speed: 0.03 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: 天映经典, Total: 98, Valid: 2, Valid Percent: 2.04%, Whitelist: 0, IPv4: 2, IPv6: 96, Min Delay: 14 ms, Max Speed: 21.62 M/s, Avg Speed: 11.01 M/s, Max Resolution: 1920x1080
+Category: 🎬电影频道, Name: 星空卫视, Total: 7, Valid: 2, Valid Percent: 28.57%, Whitelist: 0, IPv4: 1, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 28.48 M/s, Avg Speed: 14.24 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: CCTV-5, Total: 360, Valid: 47, Valid Percent: 13.06%, Whitelist: 0, IPv4: 11, IPv6: 349, Min Delay: 0.1 ms, Max Speed: 1.73 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: CCTV-5+, Total: 206, Valid: 56, Valid Percent: 27.18%, Whitelist: 0, IPv4: 16, IPv6: 190, Min Delay: 0.1 ms, Max Speed: 1.03 M/s, Avg Speed: 0.17 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 山东体育, Total: 13, Valid: 11, Valid Percent: 84.62%, Whitelist: 0, IPv4: 2, IPv6: 11, Min Delay: 0.1 ms, Max Speed: 11.73 M/s, Avg Speed: 1.73 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 天津体育, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 131 ms, Max Speed: 13.09 M/s, Avg Speed: 13.09 M/s, Max Resolution: 1280x720
+Category: 🏀体育频道, Name: 睛彩篮球, Total: 4, Valid: 3, Valid Percent: 75.00%, Whitelist: 0, IPv4: 2, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.04 M/s, Avg Speed: 0.03 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 睛彩广场舞, Total: 14, Valid: 1, Valid Percent: 7.14%, Whitelist: 0, IPv4: 1, IPv6: 13, Min Delay: 502 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 风云足球, Total: 11, Valid: 8, Valid Percent: 72.73%, Whitelist: 0, IPv4: 5, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.99 M/s, Avg Speed: 0.27 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 魅力足球, Total: 14, Valid: 11, Valid Percent: 78.57%, Whitelist: 0, IPv4: 1, IPv6: 13, Min Delay: 0.1 ms, Max Speed: 0.97 M/s, Avg Speed: 0.09 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 天元围棋, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 526 ms, Max Speed: 0.83 M/s, Avg Speed: 0.42 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 快乐垂钓, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 5, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.91 M/s, Avg Speed: 0.45 M/s, Max Resolution: 1920x1080
+Category: 🪁动画频道, Name: 少儿动画, Total: 10, Valid: 1, Valid Percent: 10.00%, Whitelist: 0, IPv4: 10, IPv6: 0, Min Delay: 10005 ms, Max Speed: 0.06 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 🪁动画频道, Name: 动漫秀场, Total: 27, Valid: 18, Valid Percent: 66.67%, Whitelist: 0, IPv4: 3, IPv6: 24, Min Delay: 0.1 ms, Max Speed: 0.97 M/s, Avg Speed: 0.14 M/s, Max Resolution: 1920x1080
+Category: 🪁动画频道, Name: 新动漫, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1344 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: 720x576
+Category: 🪁动画频道, Name: CN卡通, Total: 4, Valid: 3, Valid Percent: 75.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 22.90 M/s, Avg Speed: 7.63 M/s, Max Resolution: 1920x1080
+Category: 🪁动画频道, Name: 优漫卡通, Total: 135, Valid: 13, Valid Percent: 9.63%, Whitelist: 0, IPv4: 1, IPv6: 134, Min Delay: 0.1 ms, Max Speed: 0.90 M/s, Avg Speed: 0.07 M/s, Max Resolution: 1920x1080
+Category: 🪁动画频道, Name: 金鹰卡通, Total: 49, Valid: 39, Valid Percent: 79.59%, Whitelist: 0, IPv4: 7, IPv6: 42, Min Delay: 0.1 ms, Max Speed: 0.98 M/s, Avg Speed: 0.08 M/s, Max Resolution: 1920x1080
+Category: 🪁动画频道, Name: 蜡笔小新, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 25 ms, Max Speed: 19.38 M/s, Avg Speed: 19.38 M/s, Max Resolution: 1920x1080
+Category: 🎮游戏频道, Name: 游戏风云, Total: 13, Valid: 8, Valid Percent: 61.54%, Whitelist: 0, IPv4: 3, IPv6: 10, Min Delay: 0.1 ms, Max Speed: 0.97 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
+Category: 🎵音乐频道, Name: CCTV-15, Total: 295, Valid: 73, Valid Percent: 24.75%, Whitelist: 0, IPv4: 11, IPv6: 284, Min Delay: 0.1 ms, Max Speed: 0.98 M/s, Avg Speed: 0.10 M/s, Max Resolution: 1920x1080
+Category: 🎵音乐频道, Name: 风云音乐, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 446 ms, Max Speed: 0.97 M/s, Avg Speed: 0.78 M/s, Max Resolution: 1920x1080
+Category: 🎵音乐频道, Name: 音乐现场, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 8 ms, Max Speed: 11.73 M/s, Avg Speed: 10.48 M/s, Max Resolution: None
+Category: 🎵音乐频道, Name: 音乐之声, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1092 ms, Max Speed: 0.14 M/s, Avg Speed: 0.14 M/s, Max Resolution: None
+Category: 🎵音乐频道, Name: 潮流音乐, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10872 ms, Max Speed: 0.02 M/s, Avg Speed: 0.02 M/s, Max Resolution: None
+Category: 🏛经典剧场, Name: 天龙八部, Total: 7, Valid: 6, Valid Percent: 85.71%, Whitelist: 0, IPv4: 2, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 11.67 M/s, Avg Speed: 2.04 M/s, Max Resolution: 1920x1080
+Category: 🏛经典剧场, Name: 闯关东, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 43 ms, Max Speed: 10.68 M/s, Avg Speed: 10.68 M/s, Max Resolution: 1280x720
