@@ -1,3 +1,12 @@
 {
-  "lives": [{"name": "內網直播", "type": 0, "url": "http://192.168.31.50:6060/channel?type=m3u&token=kMC226hyCdXrwG8YEueFTCffVk29NVzz9sijpTY3m4AsnB2rVYWHOxoubetHMvvy"}]
+  "spider": ""，
+  "sites": [],
+  "lives": [
+    {
+      "name": "我的內網直播",
+      "type": 0,
+      "url": "http://192.168.31.50:6060/channel?type=m3u&token=kMC226hyCdXrwG8YEueFTCffVk29NVzz9sijpTY3m4AsnB2rVYWHOxoubetHMvvy",
+      "playerType": 1
+    }
+  ]
 }
