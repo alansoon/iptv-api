@@ -3,7 +3,7 @@
     {
       "name": "IPTV-api",
       "type": 0,
-      "url": "http://192.168.31.50:6060/channel?type=m3u&token=iaFbM6WhzKcy4vxX8G6ZWSwibnPVcTxJUW8GoOV1kIZjcaikaHwjHE90Xyh4x5ux"
+      "url": "http://serenlin.duckdns.org:6060/channel?type=m3u&token=iaFbM6WhzKcy4vxX8G6ZWSwibnPVcTxJUW8GoOV1kIZjcaikaHwjHE90Xyh4x5ux"
     }
   ]
 }
