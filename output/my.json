@@ -6,7 +6,7 @@
       "type": 0,
       "url": "http://192.168.31.50:6060/channel?type=m3u&token=kMC226hyCdXrwG8YEueFTCffVk29NVzz9sijpTY3m4AsnB2rVYWHOxoubetHMvvy",
       "playerType": 1,
-      "epg": "http://51zmt.top{name}&date={date}",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/",
       "ua": "Mozilla/5.0"
     }
   ]
